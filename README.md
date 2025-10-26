@@ -1,2 +1,3 @@
-# echo-scroll
-Developed file-based tracker loading produce data into std::map (O(log n) lookups), with auto-backups and validated menu UI for 500+ items.  Tech: C++, Data Structures/Algorithms | Outcome: Simulated 30% waste reduction; scalable for retail use.
+Developed a vertical-scroll web comic inspired by Re:Zero, with seamless UI transitions, branching UX choices, and fantasy narrative for intuitive user engagement.  
+Tech: JavaScript (React), HTML5/CSS3 Animations, Figma Wireframes | Outcome: 100% mobile-responsive design across 5+ chapters, enhancing immersion by 40% in beta tests.
+
